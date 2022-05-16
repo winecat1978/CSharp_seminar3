@@ -1,0 +1,15 @@
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\bin\Debug\net6.0\No3.exe
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\bin\Debug\net6.0\No3.deps.json
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\bin\Debug\net6.0\No3.runtimeconfig.json
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\bin\Debug\net6.0\No3.dll
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\bin\Debug\net6.0\No3.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\obj\Debug\net6.0\No3.csproj.AssemblyReference.cache
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\obj\Debug\net6.0\No3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\obj\Debug\net6.0\No3.AssemblyInfoInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\obj\Debug\net6.0\No3.AssemblyInfo.cs
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\obj\Debug\net6.0\No3.csproj.CoreCompileInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\obj\Debug\net6.0\No3.dll
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\obj\Debug\net6.0\refint\No3.dll
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\obj\Debug\net6.0\No3.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\obj\Debug\net6.0\No3.genruntimeconfig.cache
+C:\Users\mob19\OneDrive\Рабочий стол\seminar3_Csharp\No3\obj\Debug\net6.0\ref\No3.dll
