@@ -1,0 +1,15 @@
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\obj\Debug\net6.0\No24.csproj.AssemblyReference.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\obj\Debug\net6.0\No24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\obj\Debug\net6.0\No24.AssemblyInfoInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\obj\Debug\net6.0\No24.AssemblyInfo.cs
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\obj\Debug\net6.0\No24.csproj.CoreCompileInputs.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\bin\Debug\net6.0\No24.exe
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\bin\Debug\net6.0\No24.deps.json
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\bin\Debug\net6.0\No24.runtimeconfig.json
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\bin\Debug\net6.0\No24.dll
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\bin\Debug\net6.0\No24.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\obj\Debug\net6.0\No24.dll
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\obj\Debug\net6.0\refint\No24.dll
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\obj\Debug\net6.0\No24.pdb
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\obj\Debug\net6.0\No24.genruntimeconfig.cache
+C:\Users\mob19\OneDrive\Рабочий стол\Семинар4_СиШарп\No24\obj\Debug\net6.0\ref\No24.dll
